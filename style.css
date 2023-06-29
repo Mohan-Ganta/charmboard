@@ -12,7 +12,7 @@ body {
  }
 
 .square {
-    background-color: #ffffff;
+/*     background-color: #ffffff; */
     position: relative;
     border: 20px solid #A52A2A;
     padding: 30px;
